@@ -6,6 +6,7 @@ The following are the licensing and attribution notices for images.
 
 ### Tidbyt/pets ("Virtual Pets")
 **Environments**
+
 Assets that form the backgrounds are © 2024 by [Franuka](https://franuka.itch.io/) and licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/). The backgrounds were spliced together from these packs and, at times, resized from the originals.
 - [Fantasy RPG Asset Pack](https://franuka.itch.io/rpg-asset-pack)
 - [Fantasy RPG Snow Pack](https://franuka.itch.io/rpg-snow-tileset)
