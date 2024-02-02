@@ -14,6 +14,7 @@ The following assets that form the backgrounds in the Tidbyt/pets ("Virtual Pets
 - [Fantasy RPG Interior Pack](https://franuka.itch.io/fantasy-rpg-interior-pack)
 
 **Animals**
+
 The following assets that make up the animals in the Tidbyt/pets applet ("Virtual Pets") are © 2024 by [Elthen](https://linktr.ee/elthen) and licensed under [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/). The animals have been converted to animated GIFs from static PNGs.
 - [Cat](https://elthen.itch.io/2d-pixel-art-cat-sprites)
 - [Wolf Cub](https://elthen.itch.io/2d-pixel-art-wolf-cub-sprites)
